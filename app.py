@@ -5,7 +5,8 @@ from textblob import TextBlob
 st.set_page_config(page_title="AI Sentiment Analyzer", page_icon="📊", layout="centered")
 
 # App Header
-st.title("🌟 AI Sentiment Analysis Dashboard")
+st.title("AI Sentiment Analysis Dashboard")
+st.header("By Muhannad Alasmari")
 st.write("A machine learning-powered web app to analyze the emotional tone of customer reviews, feedback, or text.")
 
 # User Input Section
