@@ -5,7 +5,7 @@ from textblob import TextBlob
 st.set_page_config(page_title="AI Sentiment & Action Hub", page_icon="📊", layout="centered")
 
 # App Header
-st.title("🌟 AI Sentiment Analysis & Action Hub")
+st.title("AI Sentiment Analysis & Action Hub")
 st.write("A machine learning web app that analyzes customer feedback and generates automated business action plans.")
 
 # User Input Section
